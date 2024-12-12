@@ -10,7 +10,7 @@ Domain:WEB DEVELOPMENT
 
 Project Title: Calculator
 
-Technologies Used: HTML, CSS, JavaScript
+Technologies Used: HTML, CSS, JavaScript.
 
 Duration: 5 November 2024 to 5 December 2024
 

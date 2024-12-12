@@ -29,6 +29,8 @@ Project:
 
  Technologies:
  
- •HTML:Creating well-structured and semantic web pages. 
+ •HTML:Creating well-structured and semantic web pages.
+	
  •CSS: It is a stylesheet language used to control the presentation and design of HTML documents, such as layout, colors, fonts, and other visual aspects of a web page.
+	
  •Javascript:It is a primarily used for creating interactive and dynamic content on web pages. It enables developers to add behaviors and  respond to user interactions.

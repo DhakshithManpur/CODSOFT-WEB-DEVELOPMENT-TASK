@@ -17,7 +17,7 @@ Duration: 5 December 2024 to 5 January 2025
 
 Overview of Project:
 
- This Repository contains projects and assignments completed during my web development internship at Codsoft Technologies, Duration from 5 November 2024 to 5 December 2024. During this internship,i enhance my front-end development skills.
+ This Repository contains projects and assignments completed during my web development internship at Codsoft Technologies, Duration from 5 December 2024 to 5 January 2025. During this internship,i enhance my front-end development skills.
 
 Project:
 

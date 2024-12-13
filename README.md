@@ -15,6 +15,8 @@ Technologies Used: HTML, CSS, JavaScript
 
 Duration: 5 December 2024 to 5 January 2025
 
+Project Link:(https://github.com/DhakshithManpur/CODSOFT-WEB-DEVELOPMENT)
+
 Overview of Project:
 
  This Repository contains projects and assignments completed during my web development internship at Codsoft Technologies, Duration from 5 December 2024 to 5 January 2025. During this internship,i enhance my front-end development skills.
